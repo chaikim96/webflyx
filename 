@@ -1,0 +1,71 @@
+* [33mcommit 2263ce6f9aa3401fc2162c727d276426e8acce19[m[33m ([m[1;36mHEAD -> [m[1;32mtemp_branch[m[33m)[m
+[31m|[m Author: Kim <chaikimsquare@gmail.com>
+[31m|[m Date:   Wed Jun 12 07:56:46 2024 +0800
+[31m|[m 
+[31m|[m     Temp branch change
+[31m|[m   
+[31m|[m * [33mcommit 4121822cc7d9a38ab7aa58fdf7ac3b8b29fb0559[m[33m ([m[1;32mupdate_dune[m[33m)[m
+[31m|[m[31m/[m  Author: Kim <chaikimsquare@gmail.com>
+[31m|[m   Date:   Wed Jun 12 07:52:19 2024 +0800
+[31m|[m   
+[31m|[m       intro new change
+[31m|[m   
+[31m|[m * [33mcommit 76aa12b48a1a6b7381860692c3a42fa8e00704c1[m[33m ([m[1;31morigin/main[m[33m)[m
+[31m|[m[31m/[m  Author: chaikim96 <chaikimsquare@gmail.com>
+[31m|[m   Date:   Wed Jun 12 07:37:12 2024 +0800
+[31m|[m   
+[31m|[m       J: Update classics.csv
+[31m|[m 
+* [33mcommit b65a579c7861988f19c332cfe980721aee8d08ab[m[33m ([m[1;32mmain[m[33m)[m
+[33m|[m Author: Kim <chaikimsquare@gmail.com>
+[33m|[m Date:   Tue Jun 4 20:05:54 2024 +0800
+[33m|[m 
+[33m|[m     F: Merge branch 'add_classics'
+[33m|[m 
+* [33mcommit 7f11ee406d48668ff94b8edc20453ad76b6df91f[m
+[33m|[m Author: Kim <chaikimsquare@gmail.com>
+[33m|[m Date:   Mon Jun 3 11:23:57 2024 +0800
+[33m|[m 
+[33m|[m     G: added Benjamin Button movie title
+[33m|[m 
+* [33mcommit ddc3da8007da686a7690f4a19122d82f07044b78[m
+[33m|[m Author: Kim <chaikimsquare@gmail.com>
+[33m|[m Date:   Mon Jun 3 10:37:29 2024 +0800
+[33m|[m 
+[33m|[m     E: Updated text in contents.md
+[33m|[m 
+* [33mcommit b9b12f17c7516003baeab9913e8038bed976ed93[m
+[33m|[m Author: Kim <chaikimsquare@gmail.com>
+[33m|[m Date:   Tue Jun 4 08:26:29 2024 +0800
+[33m|[m 
+[33m|[m     I: add fear quote.
+[33m|[m 
+* [33mcommit 31e88d6009b7388330e4722bbe288ed1863d368f[m
+[33m|[m Author: Kim <chaikimsquare@gmail.com>
+[33m|[m Date:   Tue Jun 4 08:25:13 2024 +0800
+[33m|[m 
+[33m|[m     H:Add spice quote
+[33m|[m 
+* [33mcommit d15907b65fc1c70c093d2f8fb5b0f15c4e035742[m
+[33m|[m Author: Kim <chaikimsquare@gmail.com>
+[33m|[m Date:   Sun Jun 2 15:24:58 2024 +0800
+[33m|[m 
+[33m|[m     D: added new file classics.csv
+[33m|[m 
+* [33mcommit 1093d5dc642f7c27c06e3646e0bb6fd6a6e13b6d[m
+[33m|[m Author: Kim <chaikimsquare@gmail.com>
+[33m|[m Date:   Sun May 26 10:22:12 2024 +0800
+[33m|[m 
+[33m|[m     C: added quotes
+[33m|[m 
+* [33mcommit 7ad51bdfaa907d709c1a35d32048007d3ea3e2f9[m
+[33m|[m Author: Kim <chaikimsquare@gmail.com>
+[33m|[m Date:   Sun May 26 10:11:30 2024 +0800
+[33m|[m 
+[33m|[m     B: added titles file
+[33m|[m 
+* [33mcommit 6a4c02751b540c492e11f438a00346f130a9e82d[m
+  Author: Kim <chaikimsquare@gmail.com>
+  Date:   Fri May 24 07:51:47 2024 +0800
+  
+      A: add contents.md
